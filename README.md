@@ -1,6 +1,6 @@
 # 保利威-单点登录Demo
 
-[![](LOGO.png)](http://www.polyv.net)
+[![](https://github.com/huangzijian888/Polyv-Live-SDK/blob/master/LOGO.png)](http://www.polyv.net)
 
 本项目基于 [保利威后台单点登录 API](https://dev.polyv.net/2020/liveproduct/l-api/zhsz/sso/) 开发，目前已完成网页开播和后台单点登录。
 
