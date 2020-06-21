@@ -5,7 +5,7 @@
 本项目基于 [保利威后台单点登录 API](https://dev.polyv.net/2020/liveproduct/l-api/zhsz/sso/) 开发，目前已完成网页开播和后台单点登录。
 
 [![Travis (.org)](https://img.shields.io/travis/huangzijian888/Polyv-SSO-Demo)](https://travis-ci.org/github/huangzijian888/Polyv-SSO-Demo) 
- [![GitHub](https://img.shields.io/github/license/huangzijian888/Polyv-SSO-Demo)](https://github.com/huangzijian888/Polyv-SSO-Demo/blob/master/LICENSE)  
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhuangzijian888%2FPolyv-SSO-Demo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhuangzijian888%2FPolyv-SSO-Demo?ref=badge_shield)
 
 ## 快速开始
 1. [下载 Jar 包](https://github.com/huangzijian888/Polyv-SSO-Demo/releases)
@@ -14,6 +14,9 @@
 java -jar sso-0.0.1.jar
 ```
 3. 浏览器打开 localhost:8080/index.html
+
+## 在线体验
+https://sso.lamdaer.com/index.html
 
 ## 反馈及建议
 
